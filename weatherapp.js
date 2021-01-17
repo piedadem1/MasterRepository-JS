@@ -1,4 +1,4 @@
-//After the page load we can use this to get the location
+//After the page loads we can use this to get the location
 window.addEventListener("load", () => {
     let long;
     let lat;
